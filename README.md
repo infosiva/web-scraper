@@ -1,4 +1,4 @@
-# WebScaper
+# WebScarper
 
 This is a console application to do a webscraping the website content and formatting the table with the required field information about the package they are offering.
 
