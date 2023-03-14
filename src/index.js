@@ -7,7 +7,7 @@ async function performScraping() {
   // parsing the HTML source of the target web page with Cheerio
   const $ = await utils.cheerioInit(config.webScrapURL);
 
-  // scraping the "Learn how web data is used in your market" section
+  // scraping the "pricing content/table" section
   $(".pricing-table").each((index, element) => {
     $(element)
       .find(".row-subscriptions")
