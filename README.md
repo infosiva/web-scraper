@@ -20,14 +20,14 @@ Make sure use following node version for development
 
 `npm run start` 
 
-This will run a project in session and will watch changes to any files (*.js) in `src` folder 
+This will run a project in console running mode and print the package information in a table format
 
 
 **Run Test**
 
 `npm run test` 
 
-This will run all the test in `test` folders the project. 
+This will run all the test in `tests` folders the project. 
 
 Dependancies
 > `jest` for testing 
