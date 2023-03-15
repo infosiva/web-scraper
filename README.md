@@ -23,8 +23,7 @@ Make sure use following node version for development
 This will run a project in console running mode and print the package information in a table format as below
 
  (index) │              title               │                                  package_description                                  │ package_price │ discountPriceAmount │
-├─────────┼──────────────────────────────────┼───────────────────────────────────────────────────────────────────────────────────────┼───────────────┼─────────────────────┤
-│    0    │  'Optimum: 24GB Data - 1 Year'   │ 'Up to 12GB of data per year including 480 SMS(5p / MB data and 4p / SMS thereafter)' │   '£174.00'   │      '£17.90'  
+
 
 **Run Test**
 
