@@ -1,6 +1,6 @@
 # WebScarper
 
-This is a console application to do a webscraping the website content and formatting the table with the required field information about the package they are offering.
+This is a console application to do a webscraping the website content and display the table view data with the required field information about the package they are offering.
 
 ## Getting Started
 
